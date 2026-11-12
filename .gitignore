@@ -1,0 +1,11 @@
+node_modules/
+.env
+runtime/
+.DS_Store
+*.log
+
+services/fulfillment/data/*
+!services/fulfillment/data/.gitkeep
+__pycache__/
+*.pyc
+.venv/
